@@ -98,6 +98,7 @@
     <Compile Include="Common\Tools.cs" />
     <Compile Include="File_NameGenerator.cs" />
     <Compile Include="File_Io_Log_Service.cs" />
+    <Compile Include="Tools.cs" />
     <Compile Include="VISA_Driver.cs" />
     <Compile Include="App_Start_File.cs" />
     <Compile Include="Bytes_Marshaling_Char_Union.cs" />
